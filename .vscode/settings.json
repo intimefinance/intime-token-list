@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["tokenlist.json", "/*.tokenlist.json"],
+      "url": "https://raw.githubusercontent.com/Uniswap/token-lists/main/src/tokenlist.schema.json"
+    }
+  ]
+}
