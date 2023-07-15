@@ -19,14 +19,6 @@
       "logoURI": "https://raw.githubusercontent.com/intimefinance/intime-token-list/main/assets/core_test/0xeEFc44237354771fEb09Aa0a18A85eD536F15184/logo.png"
     },
     {
-      "name": "INTIME",
-      "address": "0x55045572eD9aA2bD6A7f070Bfac37bbc9e3FEc68",
-      "symbol": "INT",
-      "decimals": 18,
-      "chainId": 1115,
-      "logoURI": "https://raw.githubusercontent.com/intimefinance/intime-token-list/main/assets/core_test/0x55045572eD9aA2bD6A7f070Bfac37bbc9e3FEc68/logo.png"
-    },
-    {
       "name": "Tether USD",
       "address": "0x5700AFf131756461537420e8F434D9F43ef97c48",
       "symbol": "USDT",
